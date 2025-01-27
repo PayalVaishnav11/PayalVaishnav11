@@ -1,7 +1,6 @@
- 👋 Hi, I’m Payal Vaishnav
-- 🌱 I’m currently learning ReactJs
-- 📫 How to reach me VAISHNAV.SUNDARDAS126@svkmmumbai.onmicrosoft.com
-- 💬 Ask me about Python, Javascript
+ # Hi there, I'm Payal Vaishnav 👋
+ Welcome to my GitHub profile!
+
 
 
 <!---
